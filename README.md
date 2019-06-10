@@ -4,12 +4,4 @@ Very simple workflow to turn WiFi on/off from Alfred
 
 ## Install
 
-Check [releases](https://github.com/dvcrn/alfred-wifi-toggle/releases/latest) for the latest packaged
-workflow
-
-## Usage
-
-![screenshot](screenshot.png)
-
-- `wifi on` will turn the WiFi on
-- `wifi off` will turn the WiFi off
+Download the [workflow](https://github.com/gujiaxi/alfred-wifi-toggle/blob/master/WiFi%20Control.alfredworkflow) and install.
