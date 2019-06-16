@@ -4,4 +4,4 @@ Very simple workflow to turn WiFi on/off from Alfred
 
 ## Install
 
-Download the [workflow](https://github.com/gujiaxi/alfred-wifi-toggle/blob/master/WiFi%20Control.alfredworkflow) and install.
+Download the [Alfred Workflow](https://github.com/gujiaxi/alfred-wifi-control/raw/master/WiFi%20Control.alfredworkflow) and install it with Alfred Powerpack.
